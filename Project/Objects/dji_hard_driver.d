@@ -1,0 +1,13 @@
+.\objects\dji_hard_driver.o: ..\..\..\..\osdk-core\hal\src\dji_hard_driver.cpp
+.\objects\dji_hard_driver.o: ..\..\..\..\osdk-core\hal\inc\dji_hard_driver.hpp
+.\objects\dji_hard_driver.o: ..\..\..\..\osdk-core\hal\inc\dji_log.hpp
+.\objects\dji_hard_driver.o: ..\..\..\..\osdk-core\hal\inc\dji_memory.hpp
+.\objects\dji_hard_driver.o: ..\..\..\..\osdk-core\api\inc\dji_type.hpp
+.\objects\dji_hard_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\cstdio
+.\objects\dji_hard_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dji_hard_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dji_hard_driver.o: ..\..\..\..\osdk-core\utility\inc\dji_singleton.hpp
+.\objects\dji_hard_driver.o: ..\..\..\..\osdk-core\hal\inc\dji_thread_manager.hpp
+.\objects\dji_hard_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\cstdint
+.\objects\dji_hard_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctime
+.\objects\dji_hard_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
